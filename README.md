@@ -26,7 +26,7 @@
   <img align="left" alt="Sudheer Sen | Linkedin" width="20px" src="https://raw.githubusercontent.com/An0nUD4Y/An0nUD4Y/master/assets/linkedin.svg" />
 </a>
 
-<a href="https://twitter.com/SudheerSen">
+<a href="https://twitter.com/sudheersen17">
   <img align="left" alt="SudheerSen17 | Twitter" width="21px" src="https://raw.githubusercontent.com/An0nUD4Y/An0nUD4Y/master/assets/twitter.svg" />
 </a>
 
