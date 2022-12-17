@@ -30,17 +30,6 @@
   <img align="left" alt="SudheerSen17 | Twitter" width="21px" src="https://raw.githubusercontent.com/An0nUD4Y/An0nUD4Y/master/assets/twitter.svg" />
 </a>
 
-<a href="https://instagram.com/its_udy">
-  <img align="left" alt="Udayveer Singh | Instagram" width="21px" src="https://raw.githubusercontent.com/An0nUD4Y/An0nUD4Y/master/assets/instagram.svg" />
-</a>
-
-<a href="https://t.me/its_udy">
-  <img align="left" alt="Udayveer Singh | Telegram" width="21px" src="https://raw.githubusercontent.com/An0nUD4Y/An0nUD4Y/master/assets/telegram.png" />
-</a>
-
-<a href="mailto:anonud4y@gmail.com">
-  <img align="left" alt="Udayveer Singh | Email" width="21px" src="https://raw.githubusercontent.com/An0nUD4Y/An0nUD4Y/master/assets/email.svg" />
-</a>
 
 <br />
 <br />
