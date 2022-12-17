@@ -22,7 +22,7 @@
 
 <h3 align="left"> Reach out To me:</h3>
 
-<a href="https://www.linkedin.com/in/an0nud4y">
+<a href="https://www.linkedin.com/in/sudheer-sen-b08702178/">
   <img align="left" alt="Sudheer Sen | Linkedin" width="20px" src="https://raw.githubusercontent.com/An0nUD4Y/An0nUD4Y/master/assets/linkedin.svg" />
 </a>
 
