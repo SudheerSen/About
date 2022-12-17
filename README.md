@@ -34,7 +34,3 @@
 <br />
 <br />
 
-<h3 align="left"> My Github Stats:</h3>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=an0nud4y&show_icons=true&count_private=true&theme=dark" alt="subeshb1" /></p>
-
