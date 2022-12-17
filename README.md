@@ -1,19 +1,15 @@
 # About
-<h2 align="left"> Hi there 👋, I'm Udayveer Singh <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2 align="left"> Hi there 👋, I'm Sudheer Sen <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 
 
-<h3 align="center">A Computer Science (B.Tech) Undergraduate from National Institute Of Technology Srinagar, India</h3>
+<h3 align="center">A Computer Science (B.Sc) Undergraduate from Indore Public School Indore, India</h3>
 <br />
 
 
 -  Another Friendly Hacker.
 -  Python Programmer.
--  CTF Player at [TryHackme](https://tryhackme.com/p/an0nud4y) & [HackTheBox](https://app.hackthebox.com/profile/56298).
--  Part Time Bug Bounty Hunter.
--  Reading a Lot of Blogs/Writeups
--  Checkout My [Blogs/Writeups](https://an0nud4y.com)
--  Ask me Anything [here](https://an0nud4y.com) 💬 
+-  CTF Player at [TryHackme](https://tryhackme.com/profile).
 
 <br>
 
@@ -27,11 +23,11 @@
 <h3 align="left"> Reach out To me:</h3>
 
 <a href="https://www.linkedin.com/in/an0nud4y">
-  <img align="left" alt="Udayveer Singh | Linkedin" width="20px" src="https://raw.githubusercontent.com/An0nUD4Y/An0nUD4Y/master/assets/linkedin.svg" />
+  <img align="left" alt="Sudheer Sen | Linkedin" width="20px" src="https://raw.githubusercontent.com/An0nUD4Y/An0nUD4Y/master/assets/linkedin.svg" />
 </a>
 
 <a href="https://twitter.com/an0nud4y">
-  <img align="left" alt="Udayveer Singh | Twitter" width="21px" src="https://raw.githubusercontent.com/An0nUD4Y/An0nUD4Y/master/assets/twitter.svg" />
+  <img align="left" alt="SudheerSen17 | Twitter" width="21px" src="https://raw.githubusercontent.com/An0nUD4Y/An0nUD4Y/master/assets/twitter.svg" />
 </a>
 
 <a href="https://instagram.com/its_udy">
