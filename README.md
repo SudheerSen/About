@@ -2,7 +2,6 @@
 <h2 align="left"> Hi there 👋, I'm Sudheer Sen <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 
-
 <h3 align="center">A Computer Science (B.Sc) Undergraduate from Indore Public School Indore, India</h3>
 <br />
 
