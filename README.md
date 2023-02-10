@@ -20,16 +20,9 @@
 <img src=giphy.gif width="300">
 </br>
 
-<h3 align="left"> Reach out To me:</h3>
 
-<a href="https://www.linkedin.com/in/sudheer-sen-b08702178/">
-  <img align="left" alt="Sudheer Sen | Linkedin" width="20px" src="https://raw.githubusercontent.com/An0nUD4Y/An0nUD4Y/master/assets/linkedin.svg" />
-</a>
 
-<a href="https://twitter.com/sudheersen17">
-  <img align="left" alt="SudheerSen17 | Twitter" width="21px" src="164-1640162_kayle-league-of-legends-wallpaper-hq-gaming-wallpaper.jpg" />
-</a>
-
+  
 
 <br />
 <br />
