@@ -27,7 +27,7 @@
 </a>
 
 <a href="https://twitter.com/sudheersen17">
-  <img align="left" alt="SudheerSen17 | Twitter" width="21px" src="https://raw.githubusercontent.com/An0nUD4Y/An0nUD4Y/master/assets/twitter.svg" />
+  <img align="left" alt="SudheerSen17 | Twitter" width="21px" src="164-1640162_kayle-league-of-legends-wallpaper-hq-gaming-wallpaper.jpg" />
 </a>
 
 
